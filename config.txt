@@ -1,0 +1,7 @@
+# Simulation parameters (edit as needed)
+num_particles = 1000
+total_mass = 1.0
+softening_length = 0.01
+time_step = 0.001
+total_time = 1.0
+output_interval = 0.1

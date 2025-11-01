@@ -1,0 +1,13 @@
+# Features extracted from halo simulations for ML analysis
+# Edit and expand with real features as needed
+
+- Halo mass
+- Central density
+- Core radius
+- Concentration parameter
+- Velocity dispersion
+- Total energy
+- Angular momentum
+- Number of particles
+- Shape descriptors (e.g., sphericity, triaxiality)
+- Density slope (inner/outer)
